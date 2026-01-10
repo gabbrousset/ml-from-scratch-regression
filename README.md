@@ -29,5 +29,6 @@ Notebook is structured in 3 main sections:
 * Data Cleaning
 * Models: the classes of ML models themselves
 * Testing: contains a series of tests based on the project rubric
+  * ![hyperparameter-search](figures/lin-reg-hyperparameter-search.png)
 
 Launch the Jupyter Notebook / JupyterLab from your terminal (or use PyCharm/VSCode) and click run, all the tests will start running automatically
